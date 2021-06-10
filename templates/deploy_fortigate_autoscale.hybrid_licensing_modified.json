@@ -1492,7 +1492,7 @@
             "properties": {
                 "mode": "Incremental",
                 "templateLink": {
-                    "uri": "https://raw.githubusercontent.com/fortinet/fortigate-autoscale-azure/3.3.0/templates/linked_template.vmss.json"
+                    "uri": "https://raw.githubusercontent.com/mremini/arm-azure-fgtautoscale-2nic/main/templates/linked_template.vmss_modified.json"
                 },
                 "parameters": {
                     "AdminPassword": {
