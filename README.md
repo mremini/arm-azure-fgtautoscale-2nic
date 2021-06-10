@@ -1,0 +1,1 @@
+# arm-azure-fgtautoscale-2nic
